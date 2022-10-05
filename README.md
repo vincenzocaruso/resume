@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Azure IoT<br>👯 I’m looking to collaborate on
-FE, webapp and modern web tech<br>🌱 I’m currently learning gRPC, <br>💬 Ask me about ⚽, 🤌🇮🇹, 
+FE stack, webapp and modern web tech<br>🌱 I’m currently learning gRPC, <br>💬 Ask me about ⚽, 🤌🇮🇹, 
 
 
 ## 🌐 Socials:
