@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Microsoft Cloud Sovereign<br>👯 I’m looking to collaborate on
-FE stack, webapp and modern web tech<br>🌱 I’m currently learning gRPC, <br>💬 Ask me about ⚽, 🤌🇮🇹, 
+🔭 I’m currently working on Microsoft Specialized Clouds<br>👯 I’m looking to collaborate on
+Agentic UI, FE stack, webapp and modern web tech<br>🌱 I’m currently learning gRPC, <br>💬 Ask me about ⚽, 🤌🇮🇹, 
 
 
 ## 🌐 Socials:
