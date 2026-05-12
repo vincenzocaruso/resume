@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Microsoft Specialized Clouds<br>👯 I’m looking to collaborate on
+🔭 I’m currently working on Digital Operations as part of Microsoft Specialized Clouds business<br>👯 I’m looking to collaborate on
 Agentic UI, FE stack, webapp and modern web tech<br>🌱 I’m currently learning gRPC, <br>💬 Ask me about ⚽, 🤌🇮🇹, 
 
 
